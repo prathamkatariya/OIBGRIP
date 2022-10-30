@@ -1,0 +1,28 @@
+h2{
+    font-size: 50px;
+    font-family: sans-serif;
+    color: blueviolet;
+    text-align: center;
+}
+p{
+    color: black;
+    font-size: 25px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+
+a{
+    text-align: center;
+    text-decoration: none;
+    margin-left: 600px;
+    background-color: black;
+    padding: 15px;
+    font-size: 20px;
+    color: white;
+    border-radius: 20px;
+}
+a:hover{
+    color: white;
+    background-color: blueviolet;
+}
